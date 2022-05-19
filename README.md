@@ -1,4 +1,4 @@
-# phase_2_project# How can you improve the value of your home?
+# How can you improve the value of your home?
 
 ## Business Problem
 
