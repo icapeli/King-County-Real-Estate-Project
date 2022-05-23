@@ -31,7 +31,7 @@ Here are the features that county provides info on:
 -When/if you renovated.
 
 ## Regression Results
-![image](https://user-images.githubusercontent.com/101752113/169716751-eb42b074-5d73-4ac2-b49f-d2f27a051866.png)
+![image](https://user-images.githubusercontent.com/101752113/169852202-10768603-dee1-4788-b4da-ddc2e82ba8df.png)
 
 ##  Interpretation
 
@@ -42,7 +42,7 @@ The model can explain 57% of the variation in the price data. That may seem low 
 
 ## Results and Recommendation
 
-![image](https://user-images.githubusercontent.com/101752113/169716451-e2c66133-b94b-46e1-9e35-d598bed23c29.png)
+![image](https://user-images.githubusercontent.com/101752113/169853345-161ec9a8-8456-4882-ac54-e9b78797bf17.png)
 
 The average price in King County, WA is 540k. So, above are the changes in price for the average priced home with a 5% change in square footage. This leads to Recommendation #1:
 
@@ -50,7 +50,6 @@ The average price in King County, WA is 540k. So, above are the changes in price
 
 Now let's look at the difference between homes with grades of 'Average', 'Good' and 'Very Good'. The graph below shows what happens when the average priced home in the area changes grades.
 
-![image](https://user-images.githubusercontent.com/101752113/169716481-71c01f18-2cfa-477a-8d19-b8dc4c82d92a.png)
 
 
 Wow, From Average to Good, there is an increase of 17% and 45% from Good to Very Good. This leads to Recommendation #2:
@@ -60,7 +59,7 @@ Wow, From Average to Good, there is an increase of 17% and 45% from Good to Very
 
 Now let's investigate the effects of a recent renovation:
 
-![image](https://user-images.githubusercontent.com/101752113/169716492-f8635dc5-53b3-441b-8f18-d19065eba758.png)
+![image](https://user-images.githubusercontent.com/101752113/169852575-616ffdd1-fae5-4d5e-8454-6b87d1ce7ee0.png)
 
 Obviously, a recent renovation has a huge effect. This observation flows into Recommendation #3:
 
