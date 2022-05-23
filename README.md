@@ -35,7 +35,7 @@ Here are the features that county provides info on:
 
 ##  Interpretation
 
-The model can explain 57% of the variation in the price data. That may seem low but remember that this model does not include zip code, view data, and waterfront data because an existing homeowner cannot control the factors. 
+The model can explain 58% of the variation in the price data. That may seem low but remember that this model does not include zip code, view data, and waterfront data because an existing homeowner cannot control the factors. 
 
 
 
@@ -52,7 +52,7 @@ Now let's look at the difference between homes with grades of 'Average', 'Good' 
 
 ![image](https://user-images.githubusercontent.com/101752113/169853917-d19d31e1-7091-4600-adbc-5df95720f904.png)
 
-Wow, From Average to Good, there is an increase of 17% and 45% from Good to Very Good. This leads to Recommendation #2:
+Wow, From Average to Good, there is an increase of 18% and 46% from Good to Very Good. This leads to Recommendation #2:
 
 
 **Improving the grade of an Average house can have a monumental effect on sale price. So a homeowner should do so, if at all possible**
@@ -63,7 +63,7 @@ Now let's investigate the effects of a recent renovation:
 
 Obviously, a recent renovation has a huge effect. This observation flows into Recommendation #3:
 
-**Renovating the house sometime in the 10 years before you sell also has a 56.97%  positive effect on sale price. So a homeowner should do so, if at all possible**.
+**Renovating the house sometime in the 10 years before you sell also has a 58%  positive effect on sale price. So a homeowner should do so, if at all possible**.
 
 ## Conclusion
 This study, at the vey least, provides very useful information for any King County, WA homeowner on how they can improve the value of their home. While increasing square footage is not as important, improving the grade and a recent renovation will yield high sale prices for homeowners. Since home is where the heart is, homeowners may rest easier if they renovate and improve their homes' grade before they sell!
