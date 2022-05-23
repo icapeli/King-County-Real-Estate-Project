@@ -50,7 +50,7 @@ The average price in King County, WA is 540k. So, above are the changes in price
 
 Now let's look at the difference between homes with grades of 'Average', 'Good' and 'Very Good'. The graph below shows what happens when the average priced home in the area changes grades.
 
-
+![image](https://user-images.githubusercontent.com/101752113/169853917-d19d31e1-7091-4600-adbc-5df95720f904.png)
 
 Wow, From Average to Good, there is an increase of 17% and 45% from Good to Very Good. This leads to Recommendation #2:
 
