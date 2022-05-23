@@ -31,18 +31,18 @@ Here are the features that county provides info on:
 -When/if you renovated.
 
 ## Regression Results
-![image](https://user-images.githubusercontent.com/101752113/169716751-eb42b074-5d73-4ac2-b49f-d2f27a051866.png)
+![image](https://user-images.githubusercontent.com/101752113/169852202-10768603-dee1-4788-b4da-ddc2e82ba8df.png)
 
 ##  Interpretation
 
-The model can explain 57% of the variation in the price data. That may seem low but remember that this model does not include zip code, view data, and waterfront data because an existing homeowner cannot control the factors. 
+The model can explain 58% of the variation in the price data. That may seem low but remember that this model does not include zip code, view data, and waterfront data because an existing homeowner cannot control the factors. 
 
 
 
 
 ## Results and Recommendation
 
-![image](https://user-images.githubusercontent.com/101752113/169716451-e2c66133-b94b-46e1-9e35-d598bed23c29.png)
+![image](https://user-images.githubusercontent.com/101752113/169853345-161ec9a8-8456-4882-ac54-e9b78797bf17.png)
 
 The average price in King County, WA is 540k. So, above are the changes in price for the average priced home with a 5% change in square footage. This leads to Recommendation #1:
 
@@ -50,21 +50,20 @@ The average price in King County, WA is 540k. So, above are the changes in price
 
 Now let's look at the difference between homes with grades of 'Average', 'Good' and 'Very Good'. The graph below shows what happens when the average priced home in the area changes grades.
 
-![image](https://user-images.githubusercontent.com/101752113/169716481-71c01f18-2cfa-477a-8d19-b8dc4c82d92a.png)
+![image](https://user-images.githubusercontent.com/101752113/169853917-d19d31e1-7091-4600-adbc-5df95720f904.png)
 
-
-Wow, From Average to Good, there is an increase of 17% and 45% from Good to Very Good. This leads to Recommendation #2:
+Wow, From Average to Good, there is an increase of 18% and 46% from Good to Very Good. This leads to Recommendation #2:
 
 
 **Improving the grade of an Average house can have a monumental effect on sale price. So a homeowner should do so, if at all possible**
 
 Now let's investigate the effects of a recent renovation:
 
-![image](https://user-images.githubusercontent.com/101752113/169716492-f8635dc5-53b3-441b-8f18-d19065eba758.png)
+![image](https://user-images.githubusercontent.com/101752113/169852575-616ffdd1-fae5-4d5e-8454-6b87d1ce7ee0.png)
 
 Obviously, a recent renovation has a huge effect. This observation flows into Recommendation #3:
 
-**Renovating the house sometime in the 10 years before you sell also has a 56.97%  positive effect on sale price. So a homeowner should do so, if at all possible**.
+**Renovating the house sometime in the 10 years before you sell also has a 58%  positive effect on sale price. So a homeowner should do so, if at all possible**.
 
 ## Conclusion
 This study, at the vey least, provides very useful information for any King County, WA homeowner on how they can improve the value of their home. While increasing square footage is not as important, improving the grade and a recent renovation will yield high sale prices for homeowners. Since home is where the heart is, homeowners may rest easier if they renovate and improve their homes' grade before they sell!
