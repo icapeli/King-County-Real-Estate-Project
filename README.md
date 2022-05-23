@@ -55,7 +55,7 @@ Now let's look at the difference between homes with grades of 'Average', 'Good' 
 Wow, From Average to Good, there is an increase of 18% and 46% from Good to Very Good. This leads to Recommendation #2:
 
 
-**Improving the grade of an Average house can have a monumental effect on sale price. So a homeowner should do so, if at all possible**
+**Improving the grade of an Average house can have a monumental effect on sale price. So a homeowner should do so, if at all possible.**
 
 Now let's investigate the effects of a recent renovation:
 
