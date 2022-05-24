@@ -48,14 +48,22 @@ The average price in King County, WA is 540k. So, above are the changes in price
 
 **Improving the square footage effects price but perhaps not as strong as I thought. A homeowner's resources may be better spent elsewhere.**
 
-Now let's look at the difference between homes with grades of 'Average', 'Good' and 'Very Good'. The graph below shows what happens when the average priced home in the area changes grades.
+Now let's look at the difference between homes with grades of 'Average', 'Good' and 'Very Good'. 
 
-![image](https://user-images.githubusercontent.com/101752113/169853917-d19d31e1-7091-4600-adbc-5df95720f904.png)
+Before we look at the effects of Grade , let's look at King County's grade definitions:
+![image](https://user-images.githubusercontent.com/101752113/170115494-40b64cd0-f0c2-411b-b4e1-a0594bb1529f.png)
 
-Wow, From Average to Good, there is an increase of 18% and 46% from Good to Very Good. This leads to Recommendation #2:
+Source: https://info.kingcounty.gov/assessor/esales/Glossary.aspx?type=r
+
+Ok, now let's look at the effect of grade changes for a house that meets the minimum standard, grade '6', on price:
+
+![image](https://user-images.githubusercontent.com/101752113/170117453-806b3559-5207-41d8-930f-ded297fca3af.png)
 
 
-**Improving the grade of an Average house can have a monumental effect on sale price. So a homeowner should do so, if at all possible.**
+Wow, from Minimum Quality to Average, there is a 29% increase in price. From Minimum Quality to just Above Average, there is an increase of 66%. This leads to Recommendation #2:
+
+
+**Improving the grade of a home that only barely meets the county's standards can have a monumental effect on sale price. So a homeowner should do so, if possible. **
 
 Now let's investigate the effects of a recent renovation:
 
@@ -76,3 +84,4 @@ Isolating by individual zipcodes and examining how the features I studided  effe
 
 
 https://github.com/icapeli/phase_2_project
+
