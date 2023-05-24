@@ -1,3 +1,5 @@
+![image](https://github.com/icapeli/phase_2_project/assets/101752113/5a4d16f8-b406-4efe-9695-70166afc11b5)
+
 # How can you improve the value of your home?
 
 ## Business Problem
